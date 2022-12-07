@@ -1,3 +1,10 @@
+# AWS-Amplify-Astro-Demo
+
+- this is a simple demo of the astro default app generation 
+- see the documentation the verify your build settings!!!
+  - https://docs.astro.build/en/guides/deploy/aws/ 
+  - this must be configured correctly for launch
+- this is a promising new frontend framework, and one I might consider to use very soon
 # Welcome to [Astro](https://astro.build)
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
